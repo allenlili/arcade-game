@@ -1,4 +1,4 @@
-udacity-frontend-arcade-game
+Arcade Game
 ===============================
 
 [live](https://allenlili.github.io/udacity-frontend-arcade-game)
