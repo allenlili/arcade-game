@@ -1,7 +1,7 @@
 Arcade Game
 ===============================
 
-[live](https://allenlili.github.io/udacity-frontend-arcade-game)
+[live](https://allenlili.github.io/udacity-fend-arcade-game/)
 
 ## Run
 
