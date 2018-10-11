@@ -1,0 +1,1 @@
+"use strict";for(var maxSpeed=5,maxScore=3,maxLives=3,defaultCharForEnemy="images/enemy-bug.png",defaultCharForPlayer="images/char-boy.png",allEnemies=[],i=1;i<=3;i++){var enemy=new Enemy(0,60.5+82.5*(i-1),Math.floor(1+Math.random()*maxSpeed),defaultCharForEnemy);allEnemies.push(enemy)}var player=new Player(202,390.5,0,maxLives,0,defaultCharForPlayer);
